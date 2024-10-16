@@ -12,7 +12,7 @@ This is a simple **To-Do List** web application developed using HTML, CSS, and J
 
 ## Live Demo
 
-You can view the live demo here: [Live To-Do List](https://baranturken.github.io/todo-list/)
+You can view the live demo here: [Live To-Do List](http://www.baran-todolist.com/)
 
 ## Screenshots
 
